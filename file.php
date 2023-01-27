@@ -1,5 +1,13 @@
 <?php 
 
+/*
+*
+*
+*@author: Berat Bilmez
+*
+*
+*/
+
 class File {
  
     protected $filename;
